@@ -1,0 +1,4 @@
+[Info  - 3:43:05 PM] Angular language server process ID: 16589
+[Info  - 3:43:05 PM] Using typescript v3.7.4 from /home/ptblr-1227/.vscode/extensions/angular.ng-template-0.900.5/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 3:43:05 PM] Using @angular/language-service v9.0.0-rc.9 from /home/ptblr-1227/.vscode/extensions/angular.ng-template-0.900.5/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 3:43:05 PM] Log file: /var/www/html/reactApp/react_course/server/logs/20200205T154257/exthost1/Angular.ng-template/nglangsvc.log
